@@ -1,0 +1,16 @@
+diff a/hello.md b/hello.md	(rejected hunks)
+@@ -1,6 +0,8 @@
+-git 및 github 단어 설명
++# git 및 github 단어 설명
+ 
++## git 명령어 요약
+ 
+-commit
+-add 
+-push
+\ No newline at end of file
++
++- commit
++- add 
++- push
+\ No newline at end of file
